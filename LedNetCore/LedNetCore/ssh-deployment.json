@@ -1,0 +1,6 @@
+{
+  "Destination": "/home/pi/DotNetApps/Led",
+  "Host": "raspberrypi",
+  "UserName": "pi",
+  "Password": "raspberry"
+}
